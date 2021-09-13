@@ -18,3 +18,5 @@ You can connect a temperature sensor to pin 14 to get surrounding temperature da
 This software is ported from omnikstats and not optimised for ESP8266.
 
 Besides, I am not a software guy... :-)
+
+Free to use and optimise. However, pls leave my credentials
