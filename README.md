@@ -5,6 +5,7 @@ Process data and sends it to PVoutput.org
 You will need an API from PVoutput.org if you want it to upload.
 
 For ESP8266. Might work with ESP32, not tested!
+
 When using a linux OS (raspberrry e.g.) try https://github.com/arjenv/omnikstats
 
 Rename your_secrets.h to secrets.h
